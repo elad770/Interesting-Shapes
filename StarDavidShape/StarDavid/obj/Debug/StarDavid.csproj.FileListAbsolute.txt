@@ -1,0 +1,12 @@
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\obj\Debug\StarDavid.csproj.AssemblyReference.cache
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\obj\Debug\StarDavid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\obj\Debug\StarDavid.csproj.CoreCompileInputs.cache
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\bin\Debug\StarDavid.exe.config
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\bin\Debug\StarDavid.exe
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\bin\Debug\StarDavid.pdb
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\obj\Debug\StarDavid.exe
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\obj\Debug\StarDavid.pdb
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\bin\Debug\itextsharp.dll
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\bin\Debug\itextsharp.xml
+C:\Users\Elad\source\repos\StarDavidShape\StarDavid\obj\Debug\StarDavid.csproj.CopyComplete

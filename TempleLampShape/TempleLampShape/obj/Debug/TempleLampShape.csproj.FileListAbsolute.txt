@@ -1,0 +1,12 @@
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\bin\Debug\TempleLampShape.exe.config
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\bin\Debug\TempleLampShape.exe
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\bin\Debug\TempleLampShape.pdb
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\obj\Debug\TempleLampShape.csproj.AssemblyReference.cache
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\obj\Debug\TempleLampShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\obj\Debug\TempleLampShape.csproj.CoreCompileInputs.cache
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\obj\Debug\TempleLampShape.exe
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\obj\Debug\TempleLampShape.pdb
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\bin\Debug\itextsharp.dll
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\bin\Debug\itextsharp.xml
+C:\Users\Elad\source\repos\TempleLampShape\TempleLampShape\obj\Debug\TempleLampShape.csproj.CopyComplete
