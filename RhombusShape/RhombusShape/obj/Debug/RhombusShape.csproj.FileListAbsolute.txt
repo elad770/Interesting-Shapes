@@ -1,0 +1,16 @@
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\bin\Debug\RhombusShape.exe.config
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\bin\Debug\RhombusShape.exe
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\bin\Debug\RhombusShape.pdb
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\obj\Debug\RhombusShape.csproj.AssemblyReference.cache
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\obj\Debug\RhombusShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\obj\Debug\RhombusShape.csproj.CoreCompileInputs.cache
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\obj\Debug\RhombusShape.exe
+C:\Users\Elad\source\repos\SquareCircleShape\RhombusShape\RhombusShape\obj\Debug\RhombusShape.pdb
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\obj\Debug\RhombusShape.csproj.AssemblyReference.cache
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\obj\Debug\RhombusShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\obj\Debug\RhombusShape.csproj.CoreCompileInputs.cache
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\obj\Debug\RhombusShape.exe
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\obj\Debug\RhombusShape.pdb
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\bin\Debug\RhombusShape.exe.config
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\bin\Debug\RhombusShape.exe
+C:\Users\Elad\source\repos\Shapes\RhombusShape\RhombusShape\bin\Debug\RhombusShape.pdb
