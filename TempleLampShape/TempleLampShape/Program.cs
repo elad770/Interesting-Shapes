@@ -48,7 +48,7 @@ namespace TempleLampShape
             document.Open();
 
             // Add title to the PDF document
-            string title = "Temple of Lamp";
+            string title = "Temple lamp";
             Paragraph titleParagraph = new Paragraph(title, new Font(Font.FontFamily.COURIER, 18, Font.BOLD, BaseColor.BLACK));
             titleParagraph.Alignment = Element.ALIGN_CENTER;
             StringBuilder outputBuilder = new StringBuilder();
