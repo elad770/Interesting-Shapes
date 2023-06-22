@@ -42,7 +42,7 @@ namespace TempleLampShape
             int temp = col;
             Console.ForegroundColor = ConsoleColor.Cyan;
 
-            // to save to file pdf Temple Lamp shape
+            // to save to file pdf Temple lamp shape
             Document document = new Document();
             PdfWriter writer = PdfWriter.GetInstance(document, new FileStream("TempleOfLamp.pdf", FileMode.Create));
             document.Open();
