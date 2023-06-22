@@ -12,7 +12,7 @@ namespace TempleLampShape
         static void TempleLamp()
         {
 
-            //Prints the temple lamp
+            //Darw the temple lamp
             //*   *   *   *   *   *   *   *   *
             // *   *   *   *  *  *   *   *   * 
             //  *   *   *   * * *   *   *   *  
