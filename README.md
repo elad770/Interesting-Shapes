@@ -6,8 +6,7 @@ A project that contains printing interesting shapes in a Console Application in 
 - Temple Lamp (According to the Rambam method)
 - Square-Circle
 
-
-                      *                                   *   *   *   *   *   *   *   *   *                      *********            
+                      *                                   *   *   *   *   *   *   *   *   *                      *********
                      * *                                   *   *   *   *  *  *   *   *   *                      *         *
                     *   *                                   *   *   *   * * *   *   *   *                      *           *
              *******************                             *   *   *   ***   *   *   *                       *           *
@@ -30,5 +29,4 @@ A project that contains printing interesting shapes in a Console Application in 
                                                                           *
 
 
-                                                            		      
-  
+
