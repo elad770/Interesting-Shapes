@@ -14,7 +14,7 @@ namespace RhombusShape
 
         public static void RecoDrawRhombus(int rows)
         {
-            //A A wrapper function that draws a rhombus with an inner recursive function
+            //A Wrapper function that draws a rhombus with an inner recursive function
 
             void InternalRecoDrawRhombus(int i, int adv, int c)
             {
