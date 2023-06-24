@@ -13,7 +13,7 @@ namespace RhombusShape
     {
         /*
           A program that shows some functions with techniques 
-          for printing a rhombus on the screen
+          for printing a rhombus on the screen.
                       *
                      ***
                     *****   
