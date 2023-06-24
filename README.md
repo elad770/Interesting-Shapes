@@ -5,7 +5,7 @@ A project that contains printing interesting shapes in a Console Application in 
 - Star of David
 - Temple Lamp (According to the Rambam method)
 - Square-Circle
-- Rhombus
+- Rhombus (In this project there are several examples of rhombus printing, in all kinds of techniques)
 
                       *                                   *   *   *   *   *   *   *   *   *                      *********
                      * *                                   *   *   *   *  *  *   *   *   *                      *         *
