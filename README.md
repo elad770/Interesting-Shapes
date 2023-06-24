@@ -51,5 +51,3 @@ A project that contains printing interesting shapes in a Console Application in 
                       ***
                        *
 
-
-
