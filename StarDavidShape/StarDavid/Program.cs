@@ -71,7 +71,7 @@ namespace StarDavid
                 }
                 for (int y = 0; y < row_star.Length; y++)
                 {
-                    if (r / 4 == x | r * 3 / 4 == x | col - 1 == y | temp - 1 - x == y | (y == prog | y == row_star.Length - 1 - prog))
+                    if (r / 4 == x || r * 3 / 4 == x || col - 1 == y || temp - 1 - x == y || (y == prog || y == row_star.Length - 1 - prog))
                     {
 
                         Console.ForegroundColor = randomColor;
