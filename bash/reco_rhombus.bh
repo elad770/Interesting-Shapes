@@ -1,0 +1,90 @@
+#!/bin/bash
+
+
+# for value in "${my_dict[@]}"; do
+#   echo "$value"
+# done
+
+
+
+draw_rhombus() {
+   
+    local j=$1
+    local actual_columns=$2
+    if [ "$j" -eq "$actual_columns" ]; then
+        return
+    fi
+    
+    t=''
+    if [ $j -ge  $adv  ]; then
+    t="*"
+        #echo -n "*"
+    else
+    t=" "
+        #echo -n " "
+    fi
+    echo -n "$t"
+    echo -n "$t" >> rhombus.txt
+    ((j++))
+    draw_rhombus "$j" "$actual_columns" "$adv"
+}
+
+
+
+internal_reco_rhombus() {
+
+    local i=$3
+    if [ "$i" -eq $(("$1"/2+1)) ]; then
+        return
+    fi
+
+    adv=$((i + 1))
+    col=$2
+    actual_columns=$((col - adv))
+    is_up=$5
+
+    if [ "$is_up" -eq 1 ]; then
+        actual_columns=$((col / 2 + adv))
+        adv=$((col / 2 - i))
+    fi
+
+    echo -n -e  "\t\t"
+    echo -n -e  "\t\t" >> rhombus.txt
+    local j=$4
+    draw_rhombus "$j" "$actual_columns" "$adv"
+    echo "" >> rhombus.txt
+    echo ""
+    ((i++))
+    internal_reco_rhombus "$1" "$col" "$i" "$j" "$is_up" 
+}
+
+
+reco_rhombus()
+{
+    
+    local i=0
+    local j=0
+    local rows=0
+    if [ "$(($1 % 2))" -eq 1 ]; then
+        rows="$1"
+    else
+        rows="$(($1 + 1))"
+    fi
+    local columns=$rows
+    local c=$columns
+    local is_up=1
+    internal_reco_rhombus $rows $columns $i $j $is_up
+    is_up=0
+    internal_reco_rhombus $rows $columns $i $j $is_up
+}
+
+
+if [ -n "$1" ]; then
+    rows="$1"
+else
+    rows=10
+fi
+
+echo -e "\e[33m"
+reco_rhombus  "$rows" 
+echo -e "\e[0m"
