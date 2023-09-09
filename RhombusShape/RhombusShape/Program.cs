@@ -14,7 +14,7 @@ namespace RhombusShape
         /*
           A program that shows some functions with techniques 
           for printing a rhombus on the screen.
-                      *
+                      *             
                      ***
                     *****   
                    *******
@@ -23,7 +23,59 @@ namespace RhombusShape
                     *****  
                      ***
                       *
+                      
+                      
+                        *
+                       ***
+                      * * *
+                     *  *  *
+                    *   *   *
+                   *    *    *
+                  *     *     *
+                 *      *      *
+                *****************
+                 *      *      *
+                  *     *     *
+                   *    *    *
+                    *   *   *
+                     *  *  *
+                      * * *
+                       ***
+                        *
+                 
          */
+
+
+
+        public static void IdealDrawRhombus(int rows)
+        {
+            if (rows % 2 == 0)
+            {
+                rows++;
+            }
+
+            int countCol = rows / 2;
+            int add_sub = 0;
+
+            for (int i = 0; i < rows; i++)
+            {
+                Console.Write("\t\t");
+                for (int j = 0; j <= countCol + add_sub; j++)
+                {
+                    if (j == countCol + add_sub || j == countCol - add_sub || j == countCol || i == countCol)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                }
+                Console.WriteLine();
+                add_sub += i >= countCol ? -1 : 1;
+            }
+
+        }
 
         public static void RecoDrawRhombus(int rows)
         {
@@ -176,6 +228,7 @@ namespace RhombusShape
         static void Main(string[] args)
         {
             Console.WriteLine();
+            IdealDrawRhombus(new Random().Next(5, 23));
             DrawRhombusSimple2(new Random().Next(4, 23));
             Console.ForegroundColor = ConsoleColor.Blue;
             DrawRhombus(new Random().Next(4, 23));
