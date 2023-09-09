@@ -1,6 +1,6 @@
 # Interesting-Shapes
 
-A project that contains printing interesting shapes in a Console Application in C#:
+A project that contains printing interesting shapes in a Console Application in C# and Bash Script:
 
 - Star of David
 - Temple Lamp (According to the Rambam method)
